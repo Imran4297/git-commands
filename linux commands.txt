@@ -1,0 +1,7 @@
+linux commands:-
+
+1.ls – To list directories.
+2.pwd – Print working directory command in Linux.
+3.cd – Linux command to navigate through directories.
+4.mkdir – Command used to create directories in Linux.
+5.mv – Move or rename files in Linux.
